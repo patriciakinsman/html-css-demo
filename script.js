@@ -1,1 +1,1 @@
-console.log('Hello!');
+console.log('Congrats, you have found the console message!');
